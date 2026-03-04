@@ -136,3 +136,8 @@ npm test
 - How does this workflow help maintain a stable `main` branch?
 - What would happen if we didn't have these checks in place?
 - How can we expand this workflow to include more tests or different environments?
+
+
+- What other types of checks could we add to our PR pipeline in the future?
+- How does this CI setup improve our development workflow and team confidence in code changes?
+
