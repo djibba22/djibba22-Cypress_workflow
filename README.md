@@ -132,3 +132,7 @@ npm test
 - Why run tests on every pull request?
 - Why use headless mode in CI?
 - What risks are reduced when PR checks are required?
+
+- How does this workflow help maintain a stable `main` branch?
+- What would happen if we didn't have these checks in place?
+- How can we expand this workflow to include more tests or different environments?
